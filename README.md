@@ -1,3 +1,17 @@
+jak dodać nowy js do ścieżki  w bash
+ export NODE_PATH=/d/apps/node-v10.15.3-win-x64/
+ export PATH=$NODE_PATH:$PATH
+
+doanie react-mdl do yarn
+ yarn add react-mdl
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
